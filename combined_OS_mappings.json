@@ -1,0 +1,11 @@
+{
+    "Nokia": "other",
+    "SunOS": "other",
+    "SymbianOS": "other",
+    "FreeBSD": "other",
+    "Firefox OS": "other",
+    "Nintendo WiiU": "game",
+    "Nintendo 3DS": "game",
+    "Playstation Vita": "game",
+    "Xbox": "game"
+}
